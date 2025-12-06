@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Product Visualizer",
+  "description": "Visualize products on various marketing mediums and apply image edits using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
